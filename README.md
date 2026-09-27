@@ -208,4 +208,4 @@ AWStats is provided as a **full free version**, ensuring all features and update
 Don't miss out on the opportunity to optimize your server performance with AWStats! Download now and take control of your server statistics today.
 
 ---
-**Last updated:** 2026-09-27 09:35:21 UTC
+**Last updated:** 2026-09-27 14:51:59 UTC
